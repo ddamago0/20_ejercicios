@@ -4,6 +4,7 @@ fresa = 0
 
 for i in range(5):
     print("\nMenú de sabores:")
+    print("")
     print("1. Vainilla")
     print("2. Chocolate")
     print("3. Fresa")
